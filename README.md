@@ -1,3 +1,3 @@
 # C-Plus-Plus
-> This repository have stored my code written in C++ language.
-Here are three easy games developed by myself!
+> This repository has stored my code written in C++.
+Here are four easy games developed by myself!
